@@ -1,0 +1,43 @@
+<fgbxx>
+       <bgt>
+            <!-- 基本信息 -->
+			<field name=”ah”  value=””  remark=”案号” />
+            <field name="bzxr" value="" remark="被执行人"/>
+            <field name="sfzh" value="" remark="身份证号"/>
+            <field name="dz" value="" remark="地址"/>
+            <field name="zxcs" value="" remark="执行措施"/>
+            <field name="wsnr" value="" remark="文书内容"/>
+       </bgt>
+	   <bgt>
+            <!-- 基本信息 -->
+			<field name="ah"  value=""  remark="案号" />
+            <field name="bzxr" value="" remark="被执行人"/>
+            <field name="sfzh" value="" remark="身份证号"/>
+            <field name="dz" value="" remark="地址"/>
+            <field name="zxcs" value="" remark="执行措施"/>
+            <field name="wsnr" value="" remark="文书内容"/>
+       </bgt>
+	   <bgt>
+            <!-- 基本信息 -->
+			<field name="ah"  value=""  remark="案号" />
+            <field name="bzxr" value="" remark="被执行人"/>
+            <field name="sfzh" value="" remark="身份证号"/>
+            <field name="dz" value="" remark="地址"/>
+            <field name="zxcs" value="" remark="执行措施"/>
+            <field name="wsnr" value="" remark="文书内容"/>
+       </bgt> 
+		<bgt>
+            <!-- 基本信息 -->
+			<field name="ah"  value="（2011）深罗法执一字第297号"  remark="案号" />
+            <field name="bzxr" value="张弢" remark="被执行人"/>
+            <field name="sfzh" value="320113196303264855" remark="身份证号"/>
+            <field name="dz" value="深圳市南山区前海御海新苑3栋207房" remark="地址"/>
+            <field name="zxcs" value="限制出境" remark="执行措施"/>
+            <field name="wsnr" value="深圳市罗湖区人民法院执行裁定书........" remark="文书内容"/>
+       </bgt> 	   
+<fgbxx>
+
+	
+	
+	
+	
